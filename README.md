@@ -10,3 +10,5 @@
 * El programa debe tener una función para “Crear persona”, cuando se invoque a esta función, el programa deberá crear una persona y colocarla en un piso. El piso en el que aparecerá la persona se determinara aleatoriamente. A continuación, la persona deberá oprimir el botón de llamada del piso. El piso de destino de la persona nunca es igual al piso en el que se crea esa persona.
 
 * Si la primera persona del día aparece en el piso 1, puede subirse de inmediato al ascensor (después de presionar el botón de llamada). Si la primera persona aparece en el piso 2, el elevador deberá dirigirse al piso 2 y recoger a la persona. El ascensor siempre sabe en que piso esta y cual es su piso de destino.
+
+![alt text](https://peakelevator.com/wp-content/uploads/2022/05/elevator-telephone-service.jpeg)
