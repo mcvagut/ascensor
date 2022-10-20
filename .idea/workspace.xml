@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d16d0cd-843c-40a9-861d-ac7e8cb3325c" name="Changes" comment="Creando Repositorio">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d16d0cd-843c-40a9-861d-ac7e8cb3325c" name="Changes" comment="Creando Repositorio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666212324770</updated>
-      <workItem from="1666212326076" duration="202000" />
+      <workItem from="1666212326076" duration="245000" />
     </task>
     <task id="LOCAL-00001" summary="Creando Repositorio">
       <created>1666212496053</created>
@@ -56,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666212496053</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creando Repositorio">
+      <created>1666212562219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666212562219</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
