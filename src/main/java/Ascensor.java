@@ -1,4 +1,13 @@
 
+//Clase Principal
 public class Ascensor {
-    //Clase Principal
+    private Character [][] edificio = { {'0'},
+                                        {'0'},
+                                        {'0'}};
+    /** Ejemplo:
+     *
+     * {{'*'},
+     *  {'+'},
+     *  {'-'} };
+     **/
 }
