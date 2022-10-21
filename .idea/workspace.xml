@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d16d0cd-843c-40a9-861d-ac7e8cb3325c" name="Changes" comment="Creando función 'crearPersona'">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ascensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ascensor.java" afterDir="false" />
+    <list default="true" id="1d16d0cd-843c-40a9-861d-ac7e8cb3325c" name="Changes" comment="Funciones 'ExcesoPersonas' y 'ExcesoPisos' creados">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AscensorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AscensorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,7 @@
       <workItem from="1666225639708" duration="5652000" />
       <workItem from="1666290922852" duration="460000" />
       <workItem from="1666331389551" duration="1639000" />
-      <workItem from="1666333036892" duration="954000" />
+      <workItem from="1666333036892" duration="1461000" />
     </task>
     <task id="LOCAL-00001" summary="Creando Repositorio">
       <created>1666212496053</created>
@@ -164,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666333940145</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Agregando dos nuevas funciones al código, 'verificarEstadoComienzoDia' y 'llamarAscensor'">
+      <created>1666334065955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666334065955</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Funciones 'ExcesoPersonas' y 'ExcesoPisos' creados">
+      <created>1666334125911</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666334125911</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +202,8 @@
     <MESSAGE value="Definiendo Estructura del Edificio" />
     <MESSAGE value="Creando función 'SupervicionDeAscensor'" />
     <MESSAGE value="Creando función 'crearPersona'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando función 'crearPersona'" />
+    <MESSAGE value="Agregando dos nuevas funciones al código, 'verificarEstadoComienzoDia' y 'llamarAscensor'" />
+    <MESSAGE value="Funciones 'ExcesoPersonas' y 'ExcesoPisos' creados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funciones 'ExcesoPersonas' y 'ExcesoPisos' creados" />
   </component>
 </project>
