@@ -37,6 +37,20 @@ public class Ascensor {
             return "Destino accesible";
         }
 
+        //Función que verifica si existe exceso de personas
+        private void ExcesoPersonas(int destino) throws Exception {
+            if (destino>=2) {
+                throw new Exception(" Exceso de personas");
+            }
+        }
+
+        //Función que verifica si el piso está en el rango permitido
+        private void ExcesoPisos(int destino) throws Exception {
+            if (destino>3) {
+                throw new Exception(" Piso fuera de rango");
+            }
+        }
+
 
 
 
