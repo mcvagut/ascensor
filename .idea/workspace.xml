@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d16d0cd-843c-40a9-861d-ac7e8cb3325c" name="Changes" comment="Definiendo Estructura del Edificio">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="1d16d0cd-843c-40a9-861d-ac7e8cb3325c" name="Changes" comment="Creando función 'crearPersona'">
       <change beforePath="$PROJECT_DIR$/src/main/java/Ascensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ascensor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AscensorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AscensorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +113,7 @@
       <workItem from="1666225639708" duration="5652000" />
       <workItem from="1666290922852" duration="460000" />
       <workItem from="1666331389551" duration="1639000" />
-      <workItem from="1666333036892" duration="683000" />
+      <workItem from="1666333036892" duration="954000" />
     </task>
     <task id="LOCAL-00001" summary="Creando Repositorio">
       <created>1666212496053</created>
@@ -154,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666226712794</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Creando función 'SupervicionDeAscensor'">
+      <created>1666333773945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666333773945</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Creando función 'crearPersona'">
+      <created>1666333940145</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666333940145</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +185,8 @@
     <MESSAGE value="Creando Repositorio" />
     <MESSAGE value="Comentando Código" />
     <MESSAGE value="Definiendo Estructura del Edificio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Definiendo Estructura del Edificio" />
+    <MESSAGE value="Creando función 'SupervicionDeAscensor'" />
+    <MESSAGE value="Creando función 'crearPersona'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creando función 'crearPersona'" />
   </component>
 </project>

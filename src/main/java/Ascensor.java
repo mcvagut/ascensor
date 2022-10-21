@@ -16,11 +16,29 @@ public class Ascensor {
         //Función que crea la persona
         private void crearPersona(int pisoActualPersona) {
             for(int i = 1; i<= piso.length; i++){
-            if(i==pisoActualPersona){
+                if(i==pisoActualPersona){
                 piso[i-1] = '1';
+                }
             }
         }
-    }
+
+        //Función que verifica que el ascensor no esté abierto al comienzo del día
+        private void verificarEstadoComienzoDia(int pisoAscensor,String estadoPuerta) throws Exception {
+            if (pisoAscensor!=1 && estadoPuerta.equals("Abierto")) {
+            throw new Exception(" Exceso de personas");
+            }
+        }
+
+        //Función que llama al ascensor, controla los destinos.
+        private String llamarAscensor(int pisoActualPersona,int pisoDestino){
+            if(pisoActualPersona==pisoDestino){
+                return "Destino inaccesible";
+            }
+            return "Destino accesible";
+        }
+
+
+
 
 
 }
