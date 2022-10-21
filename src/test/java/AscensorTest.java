@@ -55,5 +55,24 @@ public class AscensorTest {
                     2,3,"Abierto");
         }
 
+        @Test
+        public void DistintoAPisoActual() throws Exception{
 
+            //Preparación de la prueba
+            Ascensor ascensor = new Ascensor();
+
+            //Lógica de prueba
+            String escenario1 = ascensor.SupervisionDeAscensor(1,1,
+                    1,3,"Abierto");
+            String escenario2 = ascensor.SupervisionDeAscensor(1,1,
+                    1,2,"Abierto");
+            String escenario3 = ascensor.SupervisionDeAscensor(1,1,
+                    1,1,"Abierto");
+
+            //Assert
+            assertEquals("Destino accesible", escenario1);
+            assertEquals("Destino accesible", escenario2);
+            assertEquals("Destino inaccesible", escenario3);
+
+        }
 }
