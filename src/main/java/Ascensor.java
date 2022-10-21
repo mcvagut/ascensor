@@ -13,6 +13,15 @@ public class Ascensor {
             return llamarAscensor(PersonaPisoActual,pisoDestino);
         }
 
+        //Función que crea la persona
+        private void crearPersona(int pisoActualPersona) {
+            for(int i = 1; i<= piso.length; i++){
+            if(i==pisoActualPersona){
+                piso[i-1] = '1';
+            }
+        }
+    }
+
 
 }
 
